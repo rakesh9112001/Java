@@ -20,4 +20,7 @@ This repository contains solutions to 4 programming problems solved in **Java**.
 
 Repeat the same for other files: `Program2`, `Program3`, and `Program4`.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> be552f474b4c1bdeff42632e046eeeddd0aef42f
